@@ -1,8 +1,8 @@
 {
-  "name": "KAMRAN-MD",
-  "description": "Javascript WhatsApp bot made by DR KAMRAN",
-  "logo": "https://files.catbox.moe/ly6553.jpg",
-  "keywords": ["KAMRAN-MD"],
+  "name": "DARKZONE-MD",
+  "description": "Javascript WhatsApp bot made by 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟",
+  "logo": "https://files.catbox.moe/4964gx.jpg",
+  "keywords": ["DARKZONE-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KAMRAN-MD"
+      "value": "𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY KAMRAN-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY DARKZONE-MD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "DR KAMRAN"
+      "value": "𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923195068309"
+      "value": "923306137477"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KAMRAN-MD"
+      "value": "DARKZONE-MD"
 
       }, 
 
@@ -124,13 +124,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/ly6553.jpg"
+      "value": "https://files.catbox.moe/4964gx.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ DR KAMRAN*"
+      "value": "*© CREATER 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟*"
     },
 
       "DELETE_LINKS": {
