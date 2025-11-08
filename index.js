@@ -175,15 +175,15 @@ async function connectToWA() {
                     const upMessage = `┏━━━━━━━━━━━━━━━━━━┓
 ┃ *💡INTELLIGENT BOT SYSTEM*
 ┃━━━━━━━━━━━━━━━━━━━
-┃ 🔰 Ultra-Fast | Secure | Smart
+┃ *🔰 DARKZONE-MD | 6.0.0 |* 
 ┗━━━━━━━━━━━━━━━━━━┛
 
 📡 *Status:* _Online & Operational_
 🍁 Built for your convenience ⚡
 
 ┏━〔 🧩 *Bot Details* 〕━━
-┃ ▸ *Prefix:* .
-┃ ▸ *Mode:* Public
+┃ ▸ *Prefix:* = ${prefix}
+┃ ▸ *Bot:* = *DARKZONE-MD*
 ┃ ▸ *Owner:* 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟
 ┗━━━━━━━━━━━━━━━━━━┛
 
@@ -935,7 +935,7 @@ if (isBanned) return; // Ignore banned users completely
   app.use(express.static(path.join(__dirname, 'lib')));
 
 app.get('/', (req, res) => {
-  res.redirect('/kamran.html');
+  res.redirect('/irfan.html');
 });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
